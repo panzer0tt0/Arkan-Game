@@ -1,0 +1,21 @@
+# ninja log v5
+4999	5037	7366170443287512	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	55036c46572a99e9
+0	45	7366170393364620	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	136bad475bd566db
+46	4855	7366170441457500	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	c8e627cb82401100
+0	45	7366170393364620	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	136bad475bd566db
+4889	4925	7366170442157511	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	ae7d84fcbc358101
+46	4855	7366170441457500	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	c8e627cb82401100
+4855	4889	7366170441807504	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	6daaea08c55df22
+4855	4889	7366170441807504	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	6daaea08c55df22
+4889	4925	7366170442157511	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	ae7d84fcbc358101
+4999	5037	7366170443287512	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	55036c46572a99e9
+4925	4961	7366170442527516	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	6ab5bd9fa657c10a
+4925	4961	7366170442527516	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	6ab5bd9fa657c10a
+4961	4999	7366170442897502	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	cba0e8aa987a4506
+4961	4999	7366170442897502	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	cba0e8aa987a4506
+5078	5133	7366170444237509	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	98c910ce20613723
+5037	5077	7366170443677512	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	28f0c075dc00ed2a
+5037	5077	7366170443677512	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	28f0c075dc00ed2a
+5078	5133	7366170444237509	CMakeFiles/raylib-populate-complete	98c910ce20613723
+5078	5133	7366170444237509	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	98c910ce20613723
+5078	5133	7366170444237509	C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	98c910ce20613723
