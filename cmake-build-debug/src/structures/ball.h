@@ -9,8 +9,8 @@
 
 #pragma once
 
-#include "block.hpp"
-#include "../functions.hpp"
+#include "block.h"
+#include "../functions.h"
 #include <stdexcept>
 
 struct Ball {

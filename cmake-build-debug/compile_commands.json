@@ -1,8 +1,8 @@
 [
 {
   "directory": "C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-src/src -IC:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -g -fdiagnostics-color=always -o CMakeFiles\\Arkan0_1.dir\\src\\main.cpp.obj -c C:\\Users\\Francesco\\Documents\\inf\\cpp\\Arkan0.1\\src\\main.cpp",
-  "file": "C:\\Users\\Francesco\\Documents\\inf\\cpp\\Arkan0.1\\src\\main.cpp",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-src/src -IC:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-src/src/external/glfw/include -g -fdiagnostics-color=always -o CMakeFiles\\Arkan0_1.dir\\src\\main.cpp.obj -c C:\\Users\\Francesco\\Documents\\inf\\cpp\\Arkan0.1\\cmake-build-debug\\src\\main.cpp",
+  "file": "C:\\Users\\Francesco\\Documents\\inf\\cpp\\Arkan0.1\\cmake-build-debug\\src\\main.cpp",
   "output": "CMakeFiles\\Arkan0_1.dir\\src\\main.cpp.obj"
 },
 {

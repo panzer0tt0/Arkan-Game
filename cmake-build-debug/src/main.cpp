@@ -1,13 +1,13 @@
 
 #include "raylib.h"
 
-#include "constants.hpp"
-#include "functions.hpp"
+#include "constants.h"
+#include "functions.h"
 
-#include "structures/block.hpp"
-#include "structures/player.hpp"
-#include "structures/ball.hpp"
-#include "structures/label.hpp"
+#include "structures/block.h"
+#include "structures/player.h"
+#include "structures/ball.h"
+#include "structures/label.h"
 
 #include <string>
 
@@ -37,11 +37,11 @@ void GameOverDraw();
 
 int main(void) {
     InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, "Arkan game albanese diocane");
-    font = LoadFontEx("../src/resources/papyrus.ttf", BIG_FONTSIZE, nullptr, 250);
+    font = LoadFontEx("resouces/papyrus.ttf", BIG_FONTSIZE, nullptr, 250);
     InitAudioDevice();
-    gameOverSound = LoadSound("../src/resources/lo_porto_io.wav");
-    bounceSound= LoadSound("../src/resources/pluh2.wav");
-    bounceOnBlockSound = LoadSound("../src/resources/ia_cut.wav");
+    gameOverSound = LoadSound("resouces/lo_porto_io.wav");
+    bounceSound= LoadSound("resouces/pluh2.wav");
+    bounceOnBlockSound = LoadSound("resouces/ia_cut.wav");
     SetSoundVolume(bounceOnBlockSound,0.5);
     InitGame();
 
