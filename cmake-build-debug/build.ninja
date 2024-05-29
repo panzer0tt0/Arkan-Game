@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build
 
 build cmake_object_order_depends_target_Arkan0_1: phony || cmake_object_order_depends_target_glfw cmake_object_order_depends_target_raylib
 
-build CMakeFiles/Arkan0_1.dir/src/main.cpp.obj: CXX_COMPILER__Arkan0_1_unscanned_Debug C$:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/src/main.cpp || cmake_object_order_depends_target_Arkan0_1
+build CMakeFiles/Arkan0_1.dir/src/main.cpp.obj: CXX_COMPILER__Arkan0_1_unscanned_Debug C$:/Users/Francesco/Documents/inf/cpp/Arkan0.1/src/main.cpp || cmake_object_order_depends_target_Arkan0_1
   DEFINES = -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP
   DEP_FILE = CMakeFiles\Arkan0_1.dir\src\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always

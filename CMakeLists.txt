@@ -25,14 +25,14 @@ endif()
 
 # Our Project
 
-add_executable(${PROJECT_NAME} cmake-build-debug/src/main.cpp
-        cmake-build-debug/src/constants.h
-        cmake-build-debug/src/structures/ball.h
-        cmake-build-debug/src/structures/block.h
-        cmake-build-debug/src/structures/player.h
-        cmake-build-debug/src/structures/player.h
-        cmake-build-debug/src/structures/label.h
-        cmake-build-debug/src/functions.h)
+add_executable(${PROJECT_NAME} src/main.cpp
+        src/constants.hpp
+        src/structures/ball.hpp
+        src/structures/block.hpp
+        src/structures/player.hpp
+        src/structures/player.hpp
+        src/structures/label.hpp
+        src/functions.hpp)
 #set(raylib_VERBOSE 1)
 target_link_libraries(${PROJECT_NAME} raylib)
 

@@ -1,6 +1,6 @@
 "C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -DRAYLIB_PATH=C:\raylib-5.0_win64_mingw-w64 -G Ninja -S C:\Users\Francesco\Documents\inf\cpp\Arkan0.1 -B C:\Users\Francesco\Documents\inf\cpp\Arkan0.1\cmake-build-debug
 -- Populating raylib
--- Configuring done (0.2s)
+-- Configuring done (0.1s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug/_deps/raylib-subbuild
 ninja: no work to do.
@@ -23,6 +23,6 @@ CMake Deprecation Warning at cmake-build-debug/_deps/raylib-src/CMakeLists.txt:1
 -- Compiling with the flags:
 --   PLATFORM=PLATFORM_DESKTOP
 --   GRAPHICS=GRAPHICS_API_OPENGL_33
--- Configuring done (0.5s)
+-- Configuring done (0.3s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/Francesco/Documents/inf/cpp/Arkan0.1/cmake-build-debug
